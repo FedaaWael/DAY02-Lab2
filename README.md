@@ -13,4 +13,4 @@
 -- remotly --> git push origin :v1.7
 
 
-( 2020_02_07_17_50_IMG_0087.JPG)
+![Example Image]( 2020_02_07_17_50_IMG_0087.JPG)
