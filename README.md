@@ -11,3 +11,6 @@
 // Tell me how to delete tag locally and remotely
 -- local  --> git tag -d v1.7
 -- remotly --> git push origin :v1.7
+
+
+![Example Image]( 2020_02_07_17_50_IMG_0087.JPG)
